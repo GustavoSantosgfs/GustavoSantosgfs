@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/105675745/224543631-dcb1c20f-2dcd-4fb4-9c4e-24df9241d01a.png)
+
 
 <!--
 **GustavoSantosgfs/GustavoSantosgfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
