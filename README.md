@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&ount_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&count_private=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSantosgfs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSantosgfsount_private=true&theme=tokyonight"/>
 
 ## Languages:
 <div>
