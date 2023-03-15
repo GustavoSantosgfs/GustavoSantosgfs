@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&ount_private=true&theme=tokyonight)
 
 ## Languages:
 <div>
