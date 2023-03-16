@@ -20,7 +20,7 @@
 
 ## Databases:
 <div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png">&nbsp;
+  <img width=50px src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">&nbsp;
 </div>
 
 <!--
