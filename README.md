@@ -16,6 +16,8 @@
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png">&nbsp;
+  <img width=50px src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">&nbsp;
+  <img width=50px src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">&nbsp;
 </div>
 
 ## Databases:
