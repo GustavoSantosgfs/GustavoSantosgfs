@@ -17,7 +17,7 @@
 </div>
 
 ## Frameworks:
-<img width=50px src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="Html" title="Html">&nbsp;
+<img width=50px src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET" title="Html">&nbsp;
 
 ## Databases:
 <div>
