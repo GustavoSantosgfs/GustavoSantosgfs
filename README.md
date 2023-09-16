@@ -21,6 +21,7 @@
 ## Frameworks:
 <img width=50px src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET" title=".NET">&nbsp;
 <img width=50px src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js">&nbsp;
+<img width=50px src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js">&nbsp;
 
 ## Databases:
 <div>
