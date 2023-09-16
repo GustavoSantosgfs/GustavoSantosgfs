@@ -25,6 +25,7 @@
 ## Databases:
 <div>
   <img width=50px src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL">&nbsp;
+  <img width=50px src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite">&nbsp;
 </div>
 
 ## Tools:
