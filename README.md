@@ -1,6 +1,9 @@
 ## Hello there!👋👨‍💻🎶
 
- 🙋‍♂️ I'm Gustavo, a passionate developer. Currently, I work as a Software Development intern at Escolar Manager, where I develop applications using C#, .NET Framework, JavaScript, HTML5, and ASP.NET MVC. I also apply SOLID principles and MVC architecture in my work, and use Git and GitHub for version control and code management. Additionally, I work with HTML and CSS to create efficient user interfaces and experiences. Let's build something awesome together! 🌎🚀
+🙋‍♂️ Hi there, I'm Gustavo! A passionate developer, I’m exploring diverse technologies and developing versatile applications. My commitment to enhancing my technical skills reflects my passion for learning and my aspiration to excel in the dynamic field of software development. 🚀
+
+🌟 **I'm Currently Learning**
+- **Analysis and Systems Development**: Enhancing my technical knowledge and discovering new technologies applicable in the industry.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&count_private=true&theme=tokyonight"/>
 
