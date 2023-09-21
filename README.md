@@ -4,6 +4,7 @@
 
 🌟 **I'm Currently Learning**
 - **Analysis and Systems Development**: Enhancing my technical knowledge and discovering new technologies applicable in the industry.
+- **Languages**: Advancing my proficiency in English, learning the basics of French.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&count_private=true&theme=tokyonight"/>
 
