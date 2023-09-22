@@ -3,7 +3,7 @@
 🙋‍♂️ Hi there, I'm Gustavo! A passionate developer, I’m exploring diverse technologies and developing versatile applications. My commitment to enhancing my technical skills reflects my passion for learning and my aspiration to excel in the dynamic field of software development. 🚀
 
 🌟 **I'm Currently Learning**
-- **Analysis and Systems Development**: Enhancing my technical knowledge and discovering new technologies applicable in the industry.
+- **Analysis and Systems Development at the University**: Enhancing my technical knowledge and discovering new technologies applicable in the industry.
 - **Languages**: Advancing my proficiency in English, learning the basics of French.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosgfs&count_private=true&theme=tokyonight"/>
